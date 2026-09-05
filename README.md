@@ -1,29 +1,15 @@
 ## Tajnimul Hossain
 
-Aerial robotics researcher at NIRO LAB, North South University. My work spans
-coordination algorithms, flight control, airframe aerodynamics, and the
-communication links that keep a vehicle reachable. I'm most interested in what
-survives the move from simulation to real hardware.
-
-**Current work**
-
-- **Multi-drone swarm coordination** — decentralized consensus, task allocation,
-  and coverage in CoppeliaSim, moving toward Pixhawk/ArduPilot hardware
-- **Project Kingfisher** — designed and executed CFD analyses characterizing
-  airframe aerodynamic performance across design variants
-- **NSU-AI-SAT (3U CubeSat)** — ground station and space-to-ground link design,
-  with thermal and power subsystem analysis
+I'm an aerial robotics researcher at NIRO LAB, North South University, working on decentralized multi-drone swarm coordination, consensus algorithms, and sensor integration for flight hardware. My current projects include airframe aerodynamic analysis for Project Kingfisher and NSU-AI-SAT, a 3U CubeSat, where I design the ground station link and evaluate thermal and power subsystems. I'm most interested in what survives the move from simulation to real hardware.
 
 **Tools**
 
-Python · C/C++ · ArduPilot · PX4/Pixhawk · MAVLink · CoppeliaSim · SimScale ·
-MATLAB/Simulink · STM32 · Raspberry Pi · RTK GPS
+Python, C/C++, ArduPilot, PX4/Pixhawk, MAVLink, CoppeliaSim, SimScale, MATLAB/Simulink, STM32, Raspberry Pi, RTK GPS.
 
 **Background**
 
-BSc in Electrical and Electronic Engineering, North South University.
-Specialization in Robotics and Intelligent Systems.
+BSc in Electrical and Electronic Engineering, North South University, with a specialization in Robotics and Intelligent Systems.
 
 **Contact**
 
-tajnimulhossain@gmail.com · [LinkedIn](https://www.linkedin.com/in/tajnimulhossain)
+tajnimulhossain@gmail.com, or [LinkedIn](https://www.linkedin.com/in/tajnimulhossain).
