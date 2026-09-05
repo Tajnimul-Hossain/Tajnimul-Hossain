@@ -1,16 +1,29 @@
-## Hi there 👋
+## Tajnimul Hossain
 
-<!--
-**Tajnimul-Hossain/Tajnimul-Hossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aerial robotics researcher at NIRO LAB, North South University. My work spans
+coordination algorithms, flight control, airframe aerodynamics, and the
+communication links that keep a vehicle reachable. I'm most interested in what
+survives the move from simulation to real hardware.
 
-Here are some ideas to get you started:
+**Current work**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Multi-drone swarm coordination** — decentralized consensus, task allocation,
+  and coverage in CoppeliaSim, moving toward Pixhawk/ArduPilot hardware
+- **Project Kingfisher** — designed and executed CFD analyses characterizing
+  airframe aerodynamic performance across design variants
+- **NSU-AI-SAT (3U CubeSat)** — ground station and space-to-ground link design,
+  with thermal and power subsystem analysis
+
+**Tools**
+
+Python · C/C++ · ArduPilot · PX4/Pixhawk · MAVLink · CoppeliaSim · SimScale ·
+MATLAB/Simulink · STM32 · Raspberry Pi · RTK GPS
+
+**Background**
+
+BSc in Electrical and Electronic Engineering, North South University.
+Specialization in Robotics and Intelligent Systems.
+
+**Contact**
+
+tajnimulhossain@gmail.com · [LinkedIn](https://www.linkedin.com/in/tajnimulhossain)
