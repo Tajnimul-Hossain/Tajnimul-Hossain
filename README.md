@@ -5,6 +5,7 @@ I work as a research assistant in aerial robotics at North South University's NI
 **Projects**
 
 - [kingfisher-ringwing-cfd](https://github.com/Tajnimul-Hossain/kingfisher-ringwing-cfd): drag comparison of two ring-wing VTOL airframes in SimScale
+- [nsu-ai-sat-comms](https://github.com/Tajnimul-Hossain/nsu-ai-sat-comms): GNU Radio flowgraphs for the five-mode radio of a 3U CubeSat
 - [vit-cifar-pytorch](https://github.com/Tajnimul-Hossain/vit-cifar-pytorch): Vision Transformer trained from scratch on CIFAR-10 and CIFAR-100
 
 The swarm code stays private until the work is published.
